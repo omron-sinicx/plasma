@@ -6,7 +6,7 @@ conference: VecDB@VLDB2026
 resources:
   paper: https://openreview.net/forum?id=tF70hyyM6V
   benchmark: '#benchmark' # in-page anchor to the body section titled "📊 Benchmark"
-  poster:
+  poster: Plasma_A1_poster.pdf
   video:
   blog:
   demo:
